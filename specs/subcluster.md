@@ -116,10 +116,10 @@ However if the direct communication between old and newversion of applications
 is relaxed, both cluster could be upgraded independently.
 
 # 7. Deprecations
-Remote cluster installation and lifetime management.
+None
 
 # 8. Dependencies
-None
+Remote cluster installation and lifetime management.
 
 # 9. Testing
 ## 9.1 Unit tests
@@ -128,7 +128,7 @@ Opserver systemless tests will be added.
 ## 9.3 System tests
 
 # 10. Documentation Impact
-None
+New functionality.
 
 # 11. References
 https://app.asana.com/0/335523438776724/428830908079139
